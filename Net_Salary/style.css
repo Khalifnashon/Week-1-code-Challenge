@@ -1,0 +1,40 @@
+span{
+    color: #f9004d;
+    padding: 10px 25px;
+}
+table{
+    table-layout: auto;
+    width: 40%;
+    padding: 10px 25px;
+    font-size: 35px;
+    border: 2px solid rgb(13, 12, 12);
+    white-space: nowrap;
+}
+#Basic_Salary h1{
+    color: white;
+    margin: 20px 0px 20px;
+    font-size: 55px;
+    padding: 10px 25px;
+
+}
+
+body{
+    width: 100%;
+    padding: 100px 0px ;
+    background: #514c4c
+
+}
+
+#netpay{
+    text-decoration: underline;
+}
+body p{
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    text-transform: capitalize;
+    list-style-type: none;
+    padding: 10px 25px;
+    font-size: 35px;
+
+}
