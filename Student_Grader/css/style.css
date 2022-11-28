@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 80vh;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #c7c7ef;
+}
+.studentGrade{
+    background: #060557;
+    width: 50%;
+    padding: 6%;
+    color: white;
+    border-radius: 30px 30px 30px 30px;
+}
+h1{
+    color: white;
+    margin: 20px 0px 20px;
+    font-size: 45px;
+    
+}
+#form{
+    padding-left: 150px;
+}
+#button{
+    background-color: #f9004d;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: transform .4s;
+    
+}
+#button:hover{
+    transform: scale(1.2);    
+}
+
+
+ul{
+    color:rgb(4, 4, 4); 
+    background-color:yellow;
+    padding-left: 150px;
+    width: 50%;
+    margin-left: 90px;
+}
+li{
+    list-style: none;
+}
