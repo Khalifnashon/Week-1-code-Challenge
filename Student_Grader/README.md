@@ -68,4 +68,5 @@ CSS
 Email: khalifnashon@gmail.com
 # License
 MIT License Copyright (c) YEAR Author
-## 🔗 L
+## 🔗 LINK TO LIVE SITE
+https://khalifnashon.github.io/Students_Grade_Checker/
